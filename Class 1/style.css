@@ -1,0 +1,52 @@
+.card{
+    border: 4px solid #000;
+    height: auto;
+    width: 300px;
+}
+.card img{
+    width: 100%;
+    height: 200px;
+}
+
+
+.content h3{
+    background-color: rgb(234, 0, 255);
+    color: #fff;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding-top: 8px;
+
+}
+.button-submit{
+    background-color: rgb(25, 0, 255);
+    color: #fff;
+    width: 200px;
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.button-submit:hover{
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    width: 200px;
+    height: 30px;
+    margin-left: 50px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+.content h1{
+    color: #000;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.content p{
+    color: #000;
+    margin-left: 15px;
+}
